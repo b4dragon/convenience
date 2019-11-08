@@ -1,0 +1,17 @@
+{
+  "name": "convenience_store",
+  "version": "1.0.0",
+  "main": "public/main.js",
+  "license": "MIT",
+  "devDependencies": {
+    "source-map-support": "^0.5.16",
+    "ws": "^7.2.0"
+  },
+  "dependencies": {
+    "create-react-class": "^15.6.3",
+    "electron": "^7.1.1",
+    "react": "^16.11.0",
+    "react-dom": "^16.11.0",
+    "shadow-cljs": "^2.8.69"
+  }
+}

@@ -1,0 +1,7 @@
+*.*~
+node_modules
+
+yarn*
+.shadow-cljs
+public/js
+public/main.js
